@@ -1,0 +1,10 @@
+#pure{
+    margin-left: 35vw;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+body{
+    background-color: skyblue;
+}
